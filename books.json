@@ -1,0 +1,16 @@
+[
+    {
+        "isbn": "101",
+        "title": "Python Basics",
+        "author": "John Smith",
+        "year": "2022",
+        "available": true
+    },
+    {
+        "isbn": "102",
+        "title": "Flask Web Development",
+        "author": "Jane Doe",
+        "year": "2023",
+        "available": true
+    }
+]

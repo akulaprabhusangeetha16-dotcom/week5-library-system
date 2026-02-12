@@ -1,0 +1,10 @@
+[
+    {
+        "member_id": "M001",
+        "name": "Alice"
+    },
+    {
+        "member_id": "M002",
+        "name": "Bob"
+    }
+]
